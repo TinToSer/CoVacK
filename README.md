@@ -13,7 +13,11 @@ I have made a simple attempt to let you know about the fact whether Vaccine is a
 
 Concept is simple that you will receive an OTP to mobile numbers you define about the PIN codes you define.
 
-Just open the "CoVacK.txt file and change according to your wish except the formatting"
+Steps:-
+
+1.Extract the zip file downloaded
+
+2.Just open the "CoVacK.txt file and change according to your wish except the formatting"
 
     Mobile Number:=XXXXXXXXXX  // Here you can put as many mobile numbers to whom you want to notify about vaccine availability at given PIN codes. Use semicolon to separate mobile numbers
     Ex.
@@ -27,3 +31,5 @@ Just open the "CoVacK.txt file and change according to your wish except the form
     Consecutive OTP:=5  // If some availability is there for some time ,then you will receive OTP five times every 180 seconds.
     Seat Limit for OTP:=12  //This is the lower limit of available vaccines above which you want Notification.
     Refresh Interval:=2   // This is the update/refresh interval i.e how often this program enquire server(https://www.cowin.gov.in) for data .
+
+3. Run the CoVacK.exe file
