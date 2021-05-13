@@ -1,0 +1,6 @@
+Mobile Number:=XXXXXXXXXX
+PIN Code:=XXXXXXXXX
+Age Limit:=18
+Consecutive OTP:=5
+Seat Limit for OTP:=12
+Refresh Interval:=2
