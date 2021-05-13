@@ -25,5 +25,5 @@ Just open the "CoVacK.txt file and change according to your wish except the form
    
     Age Limit:=18  // Just put the age either 18 or 45 about which you needs Notification, use 0 if you want Notification for both age group.
     Consecutive OTP:=5  // If some availability is there for some time ,then you will receive OTP five times every 180 seconds.
-    Seat Limit for OTP:=12  //This is the lower limit of available vaccines above which you want Notofication.
+    Seat Limit for OTP:=12  //This is the lower limit of available vaccines above which you want Notification.
     Refresh Interval:=2   // This is the update/refresh interval i.e how often this program enquire server(https://www.cowin.gov.in) for data .
