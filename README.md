@@ -15,7 +15,7 @@ Concept is simple that you will receive an OTP to mobile numbers you define abou
 
 Steps:-
 
-1.Extract the zip file downloaded
+1.Extract the downloaded zip file 
 
 2.Just open the "CoVacK.txt file and change according to your wish except the formatting"
 
