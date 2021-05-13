@@ -2,6 +2,7 @@
 A software to reveal the truth of Vaccine availability in your location by OTP
 
 CoVacK  alias COWIN + Hack
+
 Its a commandline tool to help ManKind to know the truth
 
 In this CORONA Era ,the chaos of Vaccine Notification and its actual availability is a **?**
